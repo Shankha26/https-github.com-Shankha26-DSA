@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0040-combination-sum-ii) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
