@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0041-first-missing-positive) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
