@@ -8,7 +8,7 @@ public:
 
         dp[0][0] = true;
 
-        // Empty string with pattern
+       
         for (int j = 1; j <= m; j++) {
             if (p[j - 1] == '*')
                 dp[0][j] = dp[0][j - 1];
