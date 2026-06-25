@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -41,8 +42,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
