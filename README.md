@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0047-permutations-ii) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Shankha26/https-github.com-Shankha26-DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
